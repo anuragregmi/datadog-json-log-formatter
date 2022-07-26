@@ -1,0 +1,2 @@
+ddtrace==0.58.4
+python-json-logger==2.0.4
